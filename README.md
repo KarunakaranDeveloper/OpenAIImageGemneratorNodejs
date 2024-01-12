@@ -24,6 +24,8 @@ Follow these steps to run the project locally:
    ****To Start:****
    node index.js
 
+   Run the port in 8500
+
    This command will start the application.
 
 
